@@ -33,3 +33,47 @@ enum Color {
 // 取枚举类型
 let c:Color = Color.Blue // 获取 Blue 的index
 let colorName:string = Color[2] // 获取Green
+
+// any类型，可以为任何类型
+let notSure: any = 4;
+let list: any[] = [1, true, 'free']
+
+// void 类型，表示没有任何类型
+// 通常在函数中用，表示函数没有任何返回值
+function warnUser(): void {
+    console.log('This i my waring message')
+}
+
+// null  undefined
+let u: undefined = undefined
+let n: null = null
+
+// 联合类型
+let num: number | null = 3
+num = null
+
+// never 表示不存的类型
+function error(message: string): never {
+    throw new Error(message)
+}
+function fail() {
+    return error('something failed')
+}
+function inifiniteLoop(): never {
+    while (true) {
+
+    }
+}
+
+// object 类型 与 Object.create 非常类似
+// declare 是一个关键字，表示声明一个东西
+declare function create(o: object | null): void;
+create({prop: 0})
+create(null)
+create(42)
+
+// 类型转换
+let someValue: any = 'this is a string'
+let strLength: number = (<string>someValue).length;
+// 同价于
+let strLength:number = (someValue as string).length;
