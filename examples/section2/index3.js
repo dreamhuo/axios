@@ -8,6 +8,11 @@
 //     // b 访问不到，
 //     return b
 // }
+var _loop_1 = function (i) {
+    setTimeout(function () {
+        console.log(i);
+    }, 100 * i);
+};
 // try {
 //     throw 'On no'
 // } catch (e) {
@@ -49,18 +54,24 @@
 // let rts = f2(true, 12)
 // console.log(rts)
 // let 屏蔽功能, i 不会互相影响
-function sumMatrix(matrix) {
-    var sum = 0;
-    for (var i = 0; i < matrix.length; i++) {
-        var currentRow = matrix[i];
-        for (var i_1 = 0; i_1 < currentRow.length; i_1++) {
-            sum += currentRow[i_1];
-        }
-    }
-    return sum;
+// function sumMatrix(matrix: number[][]) {
+//     let sum = 0
+//     for (let i = 0; i < matrix.length; i++) {
+//         let currentRow = matrix[i]
+//         for (let i = 0; i < currentRow.length; i++) {
+//             sum += currentRow[i]
+//         }
+//     }
+//     return sum
+// }
+//
+// let matrix = [
+//     [1, 2, 3],
+//     [4, 5, 6]
+// ]
+//
+// console.log(sumMatrix(matrix))
+// 块级作用域的获取
+for (var i = 0; i < 10; i++) {
+    _loop_1(i);
 }
-var matrix = [
-    [1, 2, 3],
-    [4, 5, 6]
-];
-console.log(sumMatrix(matrix));

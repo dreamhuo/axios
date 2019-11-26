@@ -55,20 +55,27 @@
 // console.log(rts)
 
 // let 屏蔽功能, i 不会互相影响
-function sumMatrix(matrix: number[][]) {
-    let sum = 0
-    for (let i = 0; i < matrix.length; i++) {
-        let currentRow = matrix[i]
-        for (let i = 0; i < currentRow.length; i++) {
-            sum += currentRow[i]
-        }
-    }
-    return sum
+// function sumMatrix(matrix: number[][]) {
+//     let sum = 0
+//     for (let i = 0; i < matrix.length; i++) {
+//         let currentRow = matrix[i]
+//         for (let i = 0; i < currentRow.length; i++) {
+//             sum += currentRow[i]
+//         }
+//     }
+//     return sum
+// }
+//
+// let matrix = [
+//     [1, 2, 3],
+//     [4, 5, 6]
+// ]
+//
+// console.log(sumMatrix(matrix))
+
+// 块级作用域的获取
+for (let i = 0; i < 10; i++) {
+    setTimeout(function () {
+        console.log(i)
+    }, 100 * i)
 }
-
-let matrix = [
-    [1, 2, 3],
-    [4, 5, 6]
-]
-
-console.log(sumMatrix(matrix))

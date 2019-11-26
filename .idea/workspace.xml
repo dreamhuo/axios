@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d7686f-e6ab-49f3-a8d1-1c1f2ac004f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/section1/index2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section1/index3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section1/index4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section1/index5.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section1/index6.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section2/index1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section2/index2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section2/index3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index8.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section2/index9.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section3/index1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section3/index2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section3/index3.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/section2/index3.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/section2/index3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/section2/index3.ts" beforeDir="false" afterPath="$PROJECT_DIR$/examples/section2/index3.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +27,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/section2/index3.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/section2/index3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/examples/section3/index3.ts">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -71,12 +61,21 @@
         <option value="$PROJECT_DIR$/examples/section2/index2.ts" />
         <option value="$PROJECT_DIR$/examples/section2/index3.js" />
         <option value="$PROJECT_DIR$/examples/section2/index3.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index4.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index5.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index6.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index7.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index8.ts" />
+        <option value="$PROJECT_DIR$/examples/section2/index9.ts" />
+        <option value="$PROJECT_DIR$/examples/section3/index1.ts" />
+        <option value="$PROJECT_DIR$/examples/section3/index2.ts" />
+        <option value="$PROJECT_DIR$/examples/section3/index3.ts" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="783" />
-    <option name="y" value="375" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="164" />
+    <option name="y" value="211" />
     <option name="width" value="1375" />
     <option name="height" value="608" />
   </component>
@@ -105,21 +104,7 @@
               <item name="axios" type="b2602c69:ProjectViewProjectNode" />
               <item name="axios" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="section2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="axios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="axios" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="section2" type="462c0819:PsiDirectoryNode" />
-              <item name="index2.ts" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="axios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="axios" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="section2" type="462c0819:PsiDirectoryNode" />
-              <item name="index3.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="section3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="axios" type="b2602c69:ProjectViewProjectNode" />
@@ -166,15 +151,15 @@
       <workItem from="1573876479230" duration="3183000" />
       <workItem from="1574137308545" duration="2339000" />
       <workItem from="1574160843047" duration="3407000" />
-      <workItem from="1574733320147" duration="4794000" />
+      <workItem from="1574733320147" duration="12450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16303000" />
+    <option name="totallyTimeSpent" value="23959000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="783" y="375" width="1375" height="608" extended-state="0" />
+    <frame x="164" y="211" width="1375" height="608" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21524663" />
@@ -208,6 +193,12 @@
         <option value="$PROJECT_DIR$/examples/section2/index1.js" />
         <option value="$PROJECT_DIR$/examples/section2/index2.js" />
         <option value="$PROJECT_DIR$/examples/section2/index3.js" />
+        <option value="$PROJECT_DIR$/examples/section2/index5.js" />
+        <option value="$PROJECT_DIR$/examples/section2/index6.js" />
+        <option value="$PROJECT_DIR$/examples/section2/index7.js" />
+        <option value="$PROJECT_DIR$/examples/section2/index8.js" />
+        <option value="$PROJECT_DIR$/examples/section3/index1.js" />
+        <option value="$PROJECT_DIR$/examples/section3/index2.js" />
       </list>
     </option>
   </component>
@@ -331,17 +322,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/section2/index3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="78">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/section2/index3.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        <state relative-caret-position="153">
+          <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index4.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index5.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index6.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index7.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index8.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section2/index9.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section3/index1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section3/index2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section3/index3.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
