@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d7686f-e6ab-49f3-a8d1-1c1f2ac004f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/section4/index3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section4/index4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section4/index5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section4/index6.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/section4/index2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/examples/section4/index2.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/section4/index5.ts">
+        <entry file="file://$PROJECT_DIR$/examples/section4/index6.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="125">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -75,6 +72,7 @@
         <option value="$PROJECT_DIR$/examples/section4/index3.ts" />
         <option value="$PROJECT_DIR$/examples/section4/index4.ts" />
         <option value="$PROJECT_DIR$/examples/section4/index5.ts" />
+        <option value="$PROJECT_DIR$/examples/section4/index6.ts" />
       </list>
     </option>
   </component>
@@ -157,12 +155,12 @@
       <workItem from="1574137308545" duration="2339000" />
       <workItem from="1574160843047" duration="3407000" />
       <workItem from="1574733320147" duration="12942000" />
-      <workItem from="1574766697040" duration="9097000" />
+      <workItem from="1574766697040" duration="9789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33548000" />
+    <option name="totallyTimeSpent" value="34240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="922" y="50" width="1375" height="938" extended-state="0" />
@@ -208,6 +206,7 @@
         <option value="$PROJECT_DIR$/examples/section3/index4.js" />
         <option value="$PROJECT_DIR$/examples/section4/index3.js" />
         <option value="$PROJECT_DIR$/examples/section4/index5.js" />
+        <option value="$PROJECT_DIR$/examples/section4/index6.js" />
       </list>
     </option>
   </component>
@@ -478,8 +477,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/section4/index5.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section4/index6.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
