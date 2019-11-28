@@ -34,6 +34,8 @@ window.onmousedown = function (mouseEvent: any) {
     console.log(mouseEvent.clickTime)
 }
 
-function createZoo() {
-
+// 这里返回值类型候选为 类 Bee、Lion、Animal。
+// 因为 类 Bee、Lion 继承自 Animal，所以这里指定 Animal 最佳通用类型
+function createZoo():Animal[] {
+ return [new Bee, new Lion]
 }

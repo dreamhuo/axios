@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d7686f-e6ab-49f3-a8d1-1c1f2ac004f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/section6/index7.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section6/index8.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section6/index9.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section6/index9_1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section6/index9_2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section6/index9_3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/section7/index1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section7/index2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section7/index3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/section7/index4.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/section7/index1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/examples/section7/index1.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,14 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/section7/index1.ts">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/section7/index3.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/section7/index2.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/section7/index4.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -47,7 +62,12 @@
     <findStrings>
       <find>suit</find>
       <find>addClickListener</find>
+      <find>implements</find>
+      <find>result</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\git\axios\examples</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/examples/greeter1.ts" />
-        <option value="$PROJECT_DIR$/examples/section1/index.ts" />
-        <option value="$PROJECT_DIR$/examples/section1/index1.ts" />
         <option value="$PROJECT_DIR$/examples/section1/index2.ts" />
         <option value="$PROJECT_DIR$/examples/section1/index3.ts" />
         <option value="$PROJECT_DIR$/examples/section1/index4.ts" />
@@ -106,12 +123,15 @@
         <option value="$PROJECT_DIR$/examples/section6/index9_2.ts" />
         <option value="$PROJECT_DIR$/examples/section6/index9_3.ts" />
         <option value="$PROJECT_DIR$/examples/section7/index1.ts" />
+        <option value="$PROJECT_DIR$/examples/section7/index3.ts" />
+        <option value="$PROJECT_DIR$/examples/section7/index2.ts" />
+        <option value="$PROJECT_DIR$/examples/section7/index4.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="789" />
-    <option name="y" value="54" />
+    <option name="x" value="806" />
+    <option name="y" value="42" />
     <option name="width" value="1375" />
     <option name="height" value="938" />
   </component>
@@ -182,18 +202,18 @@
       <workItem from="1574137308545" duration="2339000" />
       <workItem from="1574160843047" duration="3407000" />
       <workItem from="1574733320147" duration="12942000" />
-      <workItem from="1574766697040" duration="31038000" />
+      <workItem from="1574766697040" duration="36094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55489000" />
+    <option name="totallyTimeSpent" value="60545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="789" y="54" width="1375" height="938" extended-state="0" />
+    <frame x="806" y="42" width="1375" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21524663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2032885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,41 +264,12 @@
         <option value="$PROJECT_DIR$/examples/section6/index7.js" />
         <option value="$PROJECT_DIR$/examples/section6/index9_1.js" />
         <option value="$PROJECT_DIR$/examples/section6/index9_2.js" />
+        <option value="$PROJECT_DIR$/examples/section7/index2.js" />
+        <option value="$PROJECT_DIR$/examples/section7/index4.js" />
       </list>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examples/section1/index3.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/section1/index4.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/section1/index5.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/section1/index6.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/section2/index1.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -643,11 +634,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/section7/index1.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state relative-caret-position="450">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section7/index2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section7/index2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section7/index3.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/section7/index4.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
         </state>
       </provider>
     </entry>
